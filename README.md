@@ -1,2 +1,2 @@
-# Precourse-Henry
-Este es un repositorio de prueba modulo 2
+# Curso de Inicio de Programadores
+
